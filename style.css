@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f6f8;
+  color: #111;
+}
+
+.container {
+  max-width: 400px;
+  margin: auto;
+  padding: 10px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #555;
+}
+
+.ticket {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 15px;
+  margin-top: 15px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.ticket-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo {
+  background: #eaeaea;
+  border-radius: 50%;
+  padding: 10px;
+  font-weight: bold;
+  color: #333;
+}
+
+.live {
+  background: #ff3b30;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 10px;
+  font-size: 12px;
+}
+
+.details p {
+  display: flex;
+  justify-content: space-between;
+  margin: 6px 0;
+  color: #555;
+}
+
+.status {
+  color: #007bff;
+  font-weight: bold;
+}
+
+.match {
+  background: #f9f9f9;
+  padding: 12px;
+  border-radius: 10px;
+  margin-top: 15px;
+  
+}
+
+.match-header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  color: #777;
+}
+
+.teams {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 15px 0;
+}
+
+.team {
+  text-align: center;
+}
+
+.team img {
+  width: 40px;
+}
+
+.vs {
+  font-weight: bold;
+  color: #333;
+}
+
+.bet {
+  font-size: 13px;
+  color: #444;
+  margin-bottom: 10px;
+}
+
+.bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.odd {
+  font-weight: bold;
+  color: #111;
+}lor: #111;
+}
